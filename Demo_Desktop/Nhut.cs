@@ -9,7 +9,5 @@ namespace Demo_Desktop
     class Nhut
     {
         //Lan 1
-        //Lan 2
-        //Lan 3
     }
 }
